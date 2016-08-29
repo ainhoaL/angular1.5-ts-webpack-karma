@@ -1,0 +1,40 @@
+{
+  "name": "Angular1.5 Starter Kit",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "karma start karma.config.js",
+    "start": "webpack-dev-server --hot --inline"
+  },
+  "author": "",
+  "license": "",
+  "private": "true",
+  "devDependencies": {
+    "angular-mocks": "^1.5.8",
+    "chai": "^3.5.0",
+    "css-loader": "^0.23.1",
+    "file-loader": "^0.8.5",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.2.0",
+    "karma-angular": "0.0.6",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-jasmine": "^1.0.2",
+    "karma-typescript-preprocessor": "^0.2.1",
+    "karma-webpack": "^1.8.0",
+    "less": "^2.5.3",
+    "less-loader": "^2.2.2",
+    "style-loader": "^0.13.0",
+    "ts-loader": "^0.8.0",
+    "typescript": "^2.1.0-dev.20160821",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.1"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "dependencies": {
+    "angular": "^1.5.0"
+  }
+}

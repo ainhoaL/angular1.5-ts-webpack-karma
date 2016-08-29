@@ -1,0 +1,8 @@
+{
+  "globalDevDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160809151918",
+    "chai": "registry:dt/chai#3.4.0+20160601211834",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160621224255",
+    "jquery": "registry:dt/jquery#1.10.0+20160704162008"
+  }
+}
