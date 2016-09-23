@@ -14,7 +14,8 @@ In the command line:
 $ npm start
 ```
 App is loaded at [http://localhost:8080](http://localhost:8080) 
-It will reload every time a change is made in the application files.
+
+It will also listen for any change made in the application files and reload the bundle.
 
 
 ##Testing the application
@@ -23,4 +24,6 @@ In the command line:
 ```shell
 $ npm test
 ```
-Tests will run on Chrome and display the results on the console. It will re-run the tests every time there is a change in the application.
+Tests will run on Chrome and display the results on the console. 
+
+It will re-run the tests every time there is a change in the application.
